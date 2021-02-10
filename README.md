@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently a master's student @TU Delft, the Netherlands.
+I'll polish my github when I have time.
+
 <!--
 **YanbinHe/YanbinHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
