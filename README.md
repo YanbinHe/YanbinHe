@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'll polish my github when I'm available.
-
 - 🤔 I'm doing my Ph.D @Circuits and Systems Group, TU Delft, with Dr. Geethu Joseph.
 - 📫 How to reach me: Through LinkedIn! https://www.linkedin.com/in/yanbin-he-10b154198/
 - 🌱 I’m currently working on signal processing in Intelligent Reflected Surfaces (IRS) channel estimation.
