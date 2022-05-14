@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 I'm doing my Ph.D @Circuits and Systems Group, TU Delft, with [Dr. Geethu Joseph](https://sites.google.com/view/geethujoseph/home).
+- 🤔 I'm doing my Ph.D @[Circuits and Systems Group](https://cas.tudelft.nl/), [TU Delft](https://www.tudelft.nl/en/), with [Dr. Geethu Joseph](https://sites.google.com/view/geethujoseph/home).
 - 📫 How to reach me: Through [LinkedIn](https://www.linkedin.com/in/yanbin-he-10b154198/)!
 - 🌱 I’m currently working on signal processing in Intelligent Reflected Surfaces (IRS) channel estimation.
 - 🔵🔴 I'm a Culer (Supporters of FC Barcelona) since 2009. Més que un club! More than a club!
