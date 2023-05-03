@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 I'm pursuing my Ph.D. degree @[Circuits and Systems Group](https://cas.tudelft.nl/), [TU Delft](https://www.tudelft.nl/en/), with [Dr. Geethu Joseph](https://sites.google.com/view/geethujoseph/home).
+- 🤔 I'm pursuing my Ph.D. degree @[Signal Processing Systems Group](https://sps.ewi.tudelft.nl/), (formerly known as Circuits and Systems Group), [TU Delft](https://www.tudelft.nl/en/), with [Dr. Geethu Joseph](https://sites.google.com/view/geethujoseph/home).
 - 📫 How to reach me: Through [LinkedIn](https://www.linkedin.com/in/yanbin-he-10b154198/)!
 - 🌱 I’m currently working on signal processing in wireless communication.
 - 🔵🔴 I'm a Culer (Supporters of FC Barcelona) since 2009. Més que un club! More than a club!
